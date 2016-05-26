@@ -3,14 +3,14 @@ Detects the most prominent human from an image
 
 ## Installation
 This codebase entirely depends on
-[py-faster-rcnn](://github.com/rbgirshick/py-faster-rcnn)
+[py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 Please follow directions from the py-faster-rcnn package for installation
 
 ## Usage
 Inside the tools subdirectory run the single_person_detect.py with an image
 directory as input.
-Example:
-./single_person_detect.py -i ./image_data/
+
+Example: ./single_person_detect.py -i ./image_data/
 
 
 
